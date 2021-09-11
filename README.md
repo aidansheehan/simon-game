@@ -6,10 +6,13 @@ Players must remember and reproduce a colour pattern, with an extra colour added
 'The Complete Web Development Bootcamp' (London App Brewery) and takes its styling from the initial files for this challenge.
 
 ## Usage
-Anybody is welcome to clone and change this repo. Copy the file path for 'index.html. and run in your browser.
+Anybody is welcome to clone and change this repo. Download the full project, copy the file path for 'index.html' and run in your browser.
 
 ## Contributions
 Contributions are welcome.
 
 ## Link 
-You can play the game on Github pages here: https://aidansheehan.github.io/simon-game/ 
+You can play the game on Github pages here: https://aidansheehan.github.io/simon-game/.
+
+## Contact Me
+Send me an email at aidanmsheehan@gmail.com. 
